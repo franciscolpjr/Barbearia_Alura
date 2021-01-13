@@ -1,0 +1,7 @@
+Este site foi feito em HTML e formatado em CSS3. 
+
+É um portal básico para uma barbearia. 
+Contém na página principal toda a descrição, localização e benefícios desta barbearia.
+Depois temos uma página que descreve os produtos ofertados nesta barbearia (incluindo os preços dos produtos).
+E, por fim, temos uma página de contatos. (Esta página ainda não interage com nenhum servidor de armazenagem dos dados)
+
